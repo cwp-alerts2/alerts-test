@@ -1,5 +1,5 @@
 Resources:
- MyInstance1:
+ MyInstance:
   Type: AWS::EC2::Instance
   Properties:
     AvailabilityZone: us-east-1a
